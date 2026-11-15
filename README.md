@@ -2,16 +2,16 @@
 
 **Course:** CC104 – Data Structures and Algorithms (Course Term Project, Project 5)
 **Section:** BSIT WMT 2-2
-**Group:** _Group XX_
+**Group:** _Group 3_
 
 ## Group Members
 
 | Name | Contribution |
 |------|--------------|
-| Noel D. Junio | _fill in_ |
-| Joemari Matt Ogama | _fill in_ |
-| Andrei Soriano | _fill in_ |
-| Siantil Noelyn Lobo | _fill in_ |
+| Noel D. Junio | _ReadMe and Assets_ |
+| Joemari Matt Ogama | _Javascript_ |
+| Andrei Soriano | _html_ |
+| Siantil Noelyn Lobo | _css_ |
 
 ## Game Objective
 
