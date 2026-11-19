@@ -8,7 +8,7 @@
 
 | Name | Contribution |
 |------|--------------|
-| Noel D. Junio | _ReadMe and Assets_ |
+| Noel D. Junio | _ReadMe, Assets, JS_ |
 | Joemari Matt Ogama | _Javascript_ |
 | Andrei Soriano | _html_ |
 | Siantil Noelyn Lobo | _css_ |
